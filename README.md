@@ -1,6 +1,6 @@
 # Where did the name 'Project Oculus' come from?
 
-Oculus (Latin for 'eye' or 'architectural opening') is an idea explored in Vitruvius's book 'De Architectura' (famous for the 'Vitruvian Man'.) 
+Oculus (Latin for 'eye' or 'architectural opening') is an idea explored in Vitruvius's book 'De Architectura'. 
 It is where the key design feature 'oculus' comes from in architecture, which means a cirucular opening, usually in a **dome** or wall, allowing light and vision into a structure. A famous example would be the Patheon in Rome which was a dome with a circular opening at the top that allows natural light to flood in.
 
 In book 10 of 'De Architectura' it discusses about ancient forms of surveillance and defensive structures like watch towers and city defenses. 
